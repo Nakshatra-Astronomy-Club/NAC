@@ -135,22 +135,7 @@ const Upcoming = () => {
                     natural lead - in to additional content.This content is a
                     little bit longer.{" "}
                   </p>{" "}
-                  <button
-                    type="button"
-                    name="button"
-                    className="btn btn-primary mx-3"
-                  >
-                    {" "}
-                    Register{" "}
-                  </button>{" "}
-                  <button
-                    type="button"
-                    name="button"
-                    className="btn btn-secondary"
-                  >
-                    {" "}
-                    Join{" "}
-                  </button>{" "}
+
                 </div>{" "}
               </div>{" "}
             </div>{" "}
@@ -169,22 +154,7 @@ const Upcoming = () => {
                     natural lead - in to additional content.This content is a
                     little bit longer.{" "}
                   </p>{" "}
-                  <button
-                    type="button"
-                    name="button"
-                    className="btn btn-primary mx-3"
-                  >
-                    {" "}
-                    Register{" "}
-                  </button>{" "}
-                  <button
-                    type="button"
-                    name="button"
-                    className="btn btn-secondary"
-                  >
-                    {" "}
-                    Join{" "}
-                  </button>{" "}
+
                 </div>{" "}
               </div>{" "}
             </div>{" "}
@@ -202,25 +172,20 @@ const Upcoming = () => {
                     This is a longer card with supporting text below as a
                     natural lead - in to additional content.{" "}
                   </p>{" "}
-                  <button
-                    type="button"
-                    name="button"
-                    className="btn btn-primary mx-3"
-                  >
-                    {" "}
-                    Register{" "}
-                  </button>{" "}
-                  <button
-                    type="button"
-                    name="button"
-                    className="btn btn-secondary"
-                  >
-                    {" "}
-                    Join{" "}
-                  </button>{" "}
+
                 </div>{" "}
               </div>{" "}
             </div>{" "}
+          </div>{" "}
+          <div className="row">
+          <button
+            type="button"
+            name="button"
+            className="btn btn-primary mx-auto col-md-2"
+          >
+            {" "}
+            See more{" "}
+          </button>{" "}
           </div>{" "}
         </div>{" "}
       </section>{" "}
