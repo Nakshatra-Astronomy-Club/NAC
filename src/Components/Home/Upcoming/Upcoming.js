@@ -1,4 +1,5 @@
 import React from "react";
+import { HashLink } from "react-router-hash-link";
 
 const Upcoming = () => {
   return (
@@ -178,14 +179,15 @@ const Upcoming = () => {
             </div>{" "}
           </div>{" "}
           <div className="row">
-          <button
+          <HashLink
+            to="/events/#events"
             type="button"
             name="button"
             className="btn btn-primary mx-auto col-md-2"
           >
             {" "}
             See more{" "}
-          </button>{" "}
+          </HashLink>{" "}
           </div>{" "}
         </div>{" "}
       </section>{" "}

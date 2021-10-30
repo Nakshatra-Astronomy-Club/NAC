@@ -11,7 +11,7 @@ const Footer = () => {
     <div style={{display:'flex', alignItems:'center', justifyContent:'center', backgroundColor:'black', padding:'6px'}}>
       <a
         className="white"
-        href="https://www.facebook.com/debugged.exe.1"
+        href="https://www.facebook.com/Nakshatra-Astronomy-Club-107035304269345"
         target="_blank"
         rel="noreferrer"
       >
@@ -19,7 +19,7 @@ const Footer = () => {
       </a>
       <a
         className="white"
-        href="https://www.instagram.com/debugged.exe/"
+        href="https://www.instagram.com/astroclubnakshatra/"
         target="_blank"
         rel="noreferrer"
       >
@@ -27,7 +27,7 @@ const Footer = () => {
       </a>
       <a
         className="white"
-        href="https://discord.gg/MDDDDarXNF"
+        href="https://discord.gg/uXeWxd5bc9"
         target="_blank"
         rel="noreferrer"
       >
@@ -35,7 +35,7 @@ const Footer = () => {
       </a>
       <a
         className="white"
-        href="mailto:team.debugged.exe@gmail.com"
+        href="mailto:nakshatra@mescoepune.org"
         target="_blank"
         rel="noreferrer"
       >

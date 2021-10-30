@@ -1,5 +1,6 @@
 import React from 'react'
 import EventsBg from './2474066.jpg';
+import Upcoming from '../Home/Upcoming/Upcoming';
 
 const Events = () => {
     return (
@@ -8,6 +9,7 @@ const Events = () => {
             <h4 style={{color:'white'}}>Events by</h4>
             <h1 style={{color:'white'}}>Nakshatra Astronomy Club</h1>
         </div>
+        <Upcoming/>
         </div>
     )
 }
