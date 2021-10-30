@@ -2,13 +2,17 @@ import React from "react";
 import { Link } from "react-router-dom";
 import './Navbar.css';
 import { HashLink } from 'react-router-hash-link';
+import logo from './NAC_logo.png';
 
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg nav-glass">
       <div className="container-fluid">
         <Link to="/" className="navbar-brand">
-          Nakshatra Astronomy Club
+          <img  width="30" height="40" src={logo} alt="logo"/>
+        </Link>
+        <Link to="/" className="navbar-brand">
+          <h4>Nakshatra Astronomy Club</h4>
         </Link>
         <button
           className="navbar-toggler"
@@ -36,11 +40,11 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <HashLink to="/events/#events" className="nav-link" href="#0">
-                Upcoming Events
+                Events
               </HashLink>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#0">
+              <a className="nav-link" href="https://discord.gg/uXeWxd5bc9">
                 Join Community
               </a>
             </li>

@@ -22,7 +22,7 @@ const AboutUsPage = () => {
       </div>
 
     </div>
-    {/* <!-- Two cards of Adkar sir and Atharva --> */}
+    {/* <!-- Two cards of Adkar sir and Atharv--> */}
     <div className="core-container">
       <div className="card-container">
         <img className="round" src="https://dummyimage.com/500/000/fff" alt="user" />
@@ -35,7 +35,7 @@ const AboutUsPage = () => {
       </div>
       <div className="card-container">
         <img className="round" src="https://dummyimage.com/500/000/fff" alt="user" />
-        <h3>Atharva Mule</h3>
+        <h3>Atharv Muley</h3>
         <h6>Designation</h6>
         <p className='socials-text'>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
