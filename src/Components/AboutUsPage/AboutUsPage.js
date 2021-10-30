@@ -5,7 +5,7 @@ const AboutUsPage = () => {
     return (
         <div>
             {/* <!-- Upper Section About Page --> */}
-  <section>
+  <section id="about">
     <div className="core-container">
       <div className="about-container">
         <img className='img-vector' src={img} alt=""/>
@@ -42,7 +42,7 @@ const AboutUsPage = () => {
 
   {/* <!-- Core 2021 Profile cards --> */}
 
-  <section>
+  <section id="team">
     <h2 className='our-team'>Our Team</h2>
     <div className="core-container">
       <div className="card-container">

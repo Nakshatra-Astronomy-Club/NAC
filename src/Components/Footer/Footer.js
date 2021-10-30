@@ -3,12 +3,12 @@ import {FaFacebookF} from 'react-icons/fa';
 import {AiFillInstagram} from 'react-icons/ai';
 import {SiDiscord} from 'react-icons/si';
 import {HiMail} from 'react-icons/hi';
-import {ImTwitter} from 'react-icons/im';
-import {FaLinkedinIn} from 'react-icons/fa';
+// import {ImTwitter} from 'react-icons/im';
+// import {FaLinkedinIn} from 'react-icons/fa';
 
 const Footer = () => {
   return (
-    <div style={{display:'flex', alignItems:'center', justifyContent:'center'}}>
+    <div style={{display:'flex', alignItems:'center', justifyContent:'center', backgroundColor:'black', padding:'6px'}}>
       <a
         className="white"
         href="https://www.facebook.com/debugged.exe.1"

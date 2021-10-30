@@ -5,17 +5,23 @@ import About from './Components/Home/About/About';
 import Home from './Components/Home/Home';
 import Navbar from './Components/Home/Navbar/Navbar';
 import Upcoming from './Components/Home/Upcoming/Upcoming';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from "react-router-dom";
+import HomePage from './Components/Home/HomePage';
 
 function App() {
   return (
-    <div>
+    <Router>
       <Navbar/>
-      <Home/>
-      <About/>
-      <Upcoming/>
-      <AboutUsPage/>
+      <Switch>
+        <Route exact path='/' component={HomePage}/>
+        <Route exact path='/aboutus' component={AboutUsPage} />
+      </Switch>
       <Footer/>
-    </div>
+    </Router>
   );
 }
 

@@ -1,13 +1,15 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import './Navbar.css';
+import { HashLink } from 'react-router-hash-link';
 
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg nav-glass">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#0">
+        <Link to="/" className="navbar-brand">
           Nakshatra Astronomy Club
-        </a>
+        </Link>
         <button
           className="navbar-toggler"
           type="button"
@@ -28,14 +30,14 @@ const Navbar = () => {
         >
           <ul className="navbar-nav ">
             <li className="nav-item">
-              <a className="nav-link" href="#0">
+              <Link to="/aboutus" className="nav-link">
                 About Us
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#0">
-                Events
-              </a>
+              <HashLink to="/#upcomingevents" className="nav-link" href="#0">
+                Upcoming Events
+              </HashLink>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#0">
