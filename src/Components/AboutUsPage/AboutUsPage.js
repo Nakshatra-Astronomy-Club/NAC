@@ -9,8 +9,6 @@ const AboutUsPage = () => {
             <h4 style={{color:'white'}}>About</h4>
             <h1 style={{color:'white'}}>Nakshatra Astronomy Club</h1>
         </div>
-
-
             {/* <!-- Upper Section About Page --> */}
   <section>
     <div className="core-container">

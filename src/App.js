@@ -11,6 +11,8 @@ import {
   Route
 } from "react-router-dom";
 import HomePage from './Components/Home/HomePage';
+import ContactUs from './Components/ContactUs/ContactUs';
+import Events from './Components/EventsPage/Events';
 
 function App() {
   return (
@@ -19,7 +21,9 @@ function App() {
       <Switch>
         <Route exact path='/' component={HomePage}/>
         <Route exact path='/aboutus' component={AboutUsPage} />
+        <Route exact path='/events' component={Events} />
       </Switch>
+      <ContactUs/>
       <Footer/>
     </Router>
   );

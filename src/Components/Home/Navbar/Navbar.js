@@ -35,7 +35,7 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <HashLink to="/#upcomingevents" className="nav-link" href="#0">
+              <HashLink to="/events/#events" className="nav-link" href="#0">
                 Upcoming Events
               </HashLink>
             </li>
