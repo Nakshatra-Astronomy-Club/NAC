@@ -84,6 +84,31 @@ const AboutUsPage = () => {
         <h3>Name Surname</h3>
         <h6>Designation</h6>
       </div>
+      <div className="card-container">
+        <img className="round" src="https://dummyimage.com/500/000/fff" alt="user" />
+        <h3>Name Surname</h3>
+        <h6>Designation</h6>
+      </div>
+      <div className="card-container">
+        <img className="round" src="https://dummyimage.com/500/000/fff" alt="user" />
+        <h3>Name Surname</h3>
+        <h6>Designation</h6>
+      </div>
+      <div className="card-container">
+        <img className="round" src="https://dummyimage.com/500/000/fff" alt="user" />
+        <h3>Name Surname</h3>
+        <h6>Designation</h6>
+      </div>
+      <div className="card-container">
+        <img className="round" src="https://dummyimage.com/500/000/fff" alt="user" />
+        <h3>Name Surname</h3>
+        <h6>Designation</h6>
+      </div>
+      <div className="card-container">
+        <img className="round" src="https://dummyimage.com/500/000/fff" alt="user" />
+        <h3>Name Surname</h3>
+        <h6>Designation</h6>
+      </div>
 
     </div>
   </section>
