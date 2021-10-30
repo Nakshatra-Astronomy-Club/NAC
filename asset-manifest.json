@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NAC/static/css/main.fa613977.chunk.css",
-    "main.js": "/NAC/static/js/main.a3ca54f5.chunk.js",
-    "main.js.map": "/NAC/static/js/main.a3ca54f5.chunk.js.map",
+    "main.js": "/NAC/static/js/main.3c28b889.chunk.js",
+    "main.js.map": "/NAC/static/js/main.3c28b889.chunk.js.map",
     "runtime-main.js": "/NAC/static/js/runtime-main.b36c1331.js",
     "runtime-main.js.map": "/NAC/static/js/runtime-main.b36c1331.js.map",
     "static/js/2.f545491c.chunk.js": "/NAC/static/js/2.f545491c.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/1876.36716951.jpg": "/NAC/static/media/1876.36716951.jpg",
     "static/media/2.c218094f.png": "/NAC/static/media/2.c218094f.png",
     "static/media/2474066.2e0bc9f5.jpg": "/NAC/static/media/2474066.2e0bc9f5.jpg",
-    "static/media/HomeBg.eabff342.jpg": "/NAC/static/media/HomeBg.eabff342.jpg"
+    "static/media/HomeBg.eabff342.jpg": "/NAC/static/media/HomeBg.eabff342.jpg",
+    "static/media/NAC_logo.90220322.png": "/NAC/static/media/NAC_logo.90220322.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b36c1331.js",
     "static/js/2.f545491c.chunk.js",
     "static/css/main.fa613977.chunk.css",
-    "static/js/main.a3ca54f5.chunk.js"
+    "static/js/main.3c28b889.chunk.js"
   ]
 }
