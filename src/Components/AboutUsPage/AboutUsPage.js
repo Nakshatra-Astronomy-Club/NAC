@@ -84,7 +84,7 @@ const AboutUsPage = () => {
   src = "https://dummyimage.com/500/000/fff"
   alt = "user" / >
     <
-    h3 > Ekta Madam < /h3> <
+    h3 > Ekta Ghate < /h3> <
   h6 > Faculty Coordinator < /h6> <
   p className = 'socials-text' >
     <

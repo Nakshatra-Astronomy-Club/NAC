@@ -11,7 +11,7 @@ const Navbar = () => {
         <Link to="/" className="navbar-brand">
           <img  width="30" height="40" src={logo} alt="logo"/>
         </Link>
-        <Link to="/" className="navbar-brand">
+        <Link to="/" className="navbar-brand remove-name">
           <h4>Nakshatra Astronomy Club</h4>
         </Link>
         <button
