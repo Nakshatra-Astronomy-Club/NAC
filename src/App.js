@@ -23,8 +23,10 @@ function App() {
         <Route exact path='/aboutus' component={AboutUsPage} />
         <Route exact path='/events' component={Events} />
       </Switch>
+      <div>
       <ContactUs/>
       <Footer/>
+      </div>
     </Router>
   );
 }
