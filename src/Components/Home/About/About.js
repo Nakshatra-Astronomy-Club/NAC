@@ -26,15 +26,9 @@ const About = () => {
         <div className="row align-items-center">
           <div className="col-md-7 ">
             <p className="text-black justify-content-center p-3">
-              {" "}
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim
-              ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-              aliquip ex ea commodo consequat.Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur.Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.{" "}
-            </p>{" "}
+
+              Nakshatra Astronomy Club is an initiative taken up by the students of all the departments. It is a platform for communication and organizing different kinds of events for astronomy and astrophysics enthusiasts and sky admirers. After consistent efforts of students, this club was established on 2nd January, 2020. <br/><br/>{" "} The name Nakshatra is derived from the two sanskrit words nak and kshetra, nak meaning sky and kshetra meaning map, translating into skymap. The actual meaning of nakshatra is a group of stars which make up an imaginary outline or pattern in the night sky. 
+            </p>
           </div>{" "}
           <div className="col-md-5">
             <img src={img} alt="illustration" />

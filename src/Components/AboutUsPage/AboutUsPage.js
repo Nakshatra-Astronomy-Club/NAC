@@ -51,8 +51,10 @@ const AboutUsPage = () => {
       div className = "about-container" >
       <
       h2 className = 'our-team' > What is NAC < /h2> <
-      p > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis
-      aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. < /p> < /
+      p > Nakshatra Astronomy Club is an initiative taken up by the students of all the departments.It is a platform
+      for communication and organizing different kinds of events
+      for astronomy and astrophysics enthusiasts and sky admirers.After consistent efforts of students, this club was established on 2n d January, 2020. This society in our college AIMS to nurture students in that direction which will open a completely untouched field
+      for the students to explore themselves, not only do we aim to cover all the technical aspects of it but the philosophical aspects as well. < /p> <p>The club aims to nurture students and expose them to a completely new field of astronomy and astrophysics.</p>< /
       div >
 
       <
@@ -68,12 +70,27 @@ const AboutUsPage = () => {
   alt = "user" / >
     <
     h3 > Dr.D.S.Adkar < /h3> <
-  h6 > Designation < /h6> <
+  h6 > Faculty Coordinator < /h6>
+  <
   p className = 'socials-text' >
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis
-    aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <
+     <
+    /p>
+    < /
+  div >
+    <
+    div className = "card-container" >
+    <
+    img className = "round"
+  src = "https://dummyimage.com/500/000/fff"
+  alt = "user" / >
+    <
+    h3 > Ekta Madam < /h3> <
+  h6 > Faculty Coordinator < /h6> <
+  p className = 'socials-text' >
+    <
     /p> < /
-  div > <
+  div >
+    <
     div className = "card-container" >
     <
     img className = "round"
@@ -83,8 +100,7 @@ const AboutUsPage = () => {
     h3 > Atharv Muley < /h3> <
   h6 > Founder < /h6> <
   p className = 'socials-text' >
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis
-    aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <
+  <
     /p> < /
   div > <
     /div> < /
@@ -210,11 +226,11 @@ const AboutUsPage = () => {
     div className = "card-container" >
     <
     img className = "round"
-  src = "https://dummyimage.com/500/000/fff"
+  src = "https://ik.imagekit.io/datap/Nakshatra/profile-pic__5___1__B3keqSgz3Cf.png?updatedAt=1635833859145"
   alt = "user" / >
     <
-    h3 > Name Surname < /h3> <
-  h6 > Designation < /h6> < /
+    h3 > Ranu Mishra < /h3> <
+  h6 > SOCIAL - MEDIA Coordinator < /h6> < /
   div >
 
     <

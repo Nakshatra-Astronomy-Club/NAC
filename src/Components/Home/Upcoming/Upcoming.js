@@ -84,7 +84,7 @@ const Upcoming = () => {
             <div className="col mb-4">
               <div className="card">
                 <img
-                  src="https://dummyimage.com/600x400/72f2cc/2432f2.png&text=Dummy+Image"
+                  src="https://ik.imagekit.io/datap/Nakshatra/Events/Sanchita_3D7ew8gj9.jpeg?updatedAt=1635835906329"
                   className="card-img-top"
                   alt="..."
                 />
@@ -124,7 +124,7 @@ const Upcoming = () => {
             <div className="col mb-4">
               <div className="card">
                 <img
-                  src="https://dummyimage.com/600x400/72f2cc/2432f2.png&text=Dummy+Image"
+                  src="https://ik.imagekit.io/datap/Nakshatra/Events/DR_mOhKmCRAB4o.jpeg?updatedAt=1635835909638"
                   className="card-img-top"
                   alt="..."
                 />
@@ -143,7 +143,7 @@ const Upcoming = () => {
             <div className="col mb-4">
               <div className="card">
                 <img
-                  src="https://dummyimage.com/600x400/72f2cc/2432f2.png&text=Dummy+Image"
+                  src="https://ik.imagekit.io/datap/Nakshatra/Events/Meme_war_SD3KTL5C86.jpeg?updatedAt=1635835907044"
                   className="card-img-top"
                   alt="..."
                 />
@@ -162,7 +162,7 @@ const Upcoming = () => {
             <div className="col mb-4">
               <div className="card">
                 <img
-                  src="https://dummyimage.com/600x400/72f2cc/2432f2.png&text=Dummy+Image"
+                  src="https://ik.imagekit.io/datap/Nakshatra/Events/Samarth_VMDELRsoxRu.jpeg?updatedAt=1635835906279"
                   className="card-img-top"
                   alt="..."
                 />
