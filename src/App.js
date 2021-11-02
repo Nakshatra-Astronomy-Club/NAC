@@ -16,18 +16,19 @@ import Events from './Components/EventsPage/Events';
 
 function App() {
   return (
+    <>
     <Router>
-      <Navbar/>
+    <Navbar/>
+
       <Switch basename='/'>
         <Route exact path='/' component={HomePage}/>
         <Route exact path='/aboutus' component={AboutUsPage} />
         <Route exact path='/events' component={Events} />
       </Switch>
-      <div>
-      <ContactUs/>
-      <Footer/>
-      </div>
     </Router>
+    <ContactUs/>
+    <Footer/>
+    </>
   );
 }
 
