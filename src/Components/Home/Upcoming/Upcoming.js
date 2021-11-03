@@ -39,7 +39,7 @@ const Upcoming = () => {
                       target="_blank"
                     >
                       {" "}
-                      Register{" "}
+                      Registration coming soon{" "}
                     </a>{" "}
 
                   </div>

@@ -44,17 +44,7 @@ const Events = () => {
                           target="_blank"
                         >
                           {" "}
-                          Register{" "}
-                        </a>{" "}
-                        <a
-                        href={data.join_link}
-                          type="button"
-                          name="button"
-                          className="btn btn-secondary"
-                          target="_blank"
-                        >
-                          {" "}
-                          Join{" "}
+                          Registration coming soon{" "}
                         </a>{" "}
                       </div>{" "}
                     </div>{" "}
