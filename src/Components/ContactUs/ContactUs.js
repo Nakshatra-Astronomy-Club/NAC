@@ -1,4 +1,5 @@
 import React from 'react'
+import Airform from 'react-airform'
 
 const ContactUs = () => {
     return (
@@ -15,7 +16,8 @@ const ContactUs = () => {
           </div>
         </div>
         <div class="col-md-6 contact-form__wrapper p-5 order-lg-1">
-          <form action="#" class="contact-form form-validate" novalidate="novalidate">
+
+          <Airform email="nakshatra@mescoepune.org" class="contact-form form-validate" novalidate="novalidate">
             <div class="row">
               <div class="col-sm-6 mb-3">
                 <div class="form-group">
@@ -57,7 +59,7 @@ const ContactUs = () => {
               </div>
 
             </div>
-          </form>
+          </Airform>
         </div>
         {/* <!-- End Contact Form Wrapper --> */}
       </div>

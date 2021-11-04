@@ -81,7 +81,7 @@ const AboutUsPage = () => {
     div className = "card-container" >
     <
     img className = "round"
-  src = "https://ik.imagekit.io/datap/Nakshatra/Ekta_Ghate_2QE8ttDOc.png?updatedAt=1635932181599"
+  src = "https://ik.imagekit.io/datap/Ekta_Ghate_PAjCXHlAeTz.png?updatedAt=1636003854181"
   alt = "user" / >
     <
     h3 > Ekta Ghate < /h3> <
