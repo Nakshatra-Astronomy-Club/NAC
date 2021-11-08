@@ -84,7 +84,7 @@ const AboutUsPage = () => {
   src = "https://ik.imagekit.io/datap/Ekta_Ghate_PAjCXHlAeTz.png?updatedAt=1636003854181"
   alt = "user" / >
     <
-    h3 > Ekta Ghate < /h3> <
+    h3 >  Dr. Ekata Ghate < /h3> <
   h6 > Faculty Coordinator < /h6> <
   p className = 'socials-text' >
     <
@@ -128,7 +128,7 @@ const AboutUsPage = () => {
     div className = "card-container" >
     <
     img className = "round"
-  src = "https://ik.imagekit.io/datap/Nakshatra/Priyanka_Lakariya_HqoPjTx6Qg9.jpg?updatedAt=1635833359121"
+  src = "https://ik.imagekit.io/datap/Nakshatra/Priyanka_VA3LS52nY.jpeg?updatedAt=1636351728294"
   alt = "user" / >
     <
     h3 > Priyanka Lakariya < /h3> <
