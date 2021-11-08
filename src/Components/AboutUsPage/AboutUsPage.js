@@ -84,7 +84,7 @@ const AboutUsPage = () => {
   src = "https://ik.imagekit.io/datap/Ekta_Ghate_PAjCXHlAeTz.png?updatedAt=1636003854181"
   alt = "user" / >
     <
-    h3 >  Dr. Ekata Ghate < /h3> <
+    h3 > Dr. Ekata Ghate < /h3> <
   h6 > Faculty Coordinator < /h6> <
   p className = 'socials-text' >
     <
